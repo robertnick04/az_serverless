@@ -1,4 +1,3 @@
 # az_serverless
 
-
-Azure Serverless
+Azure Serverless project
